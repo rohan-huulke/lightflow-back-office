@@ -31,8 +31,25 @@ appSetting.init();
 import i18n from "@/i18n";
 app.use(i18n);
 
+// tippy tooltips
+import { TippyPlugin } from "tippy.vue";
+app.use(TippyPlugin);
+
+//input mask
+import { vMaska } from "maska/vue";
+app.directive("maska", vMaska);
+
+//markdown editor
+import VueEasymde from "vue3-easymde";
+import "easymde/dist/easymde.min.css";
+app.use(VueEasymde);
+
 // popper
 import Popper from "vue3-popper";
 app.component("Popper", Popper);
+
+// json to excel
+import vue3JsonExcel from "vue3-json-excel";
+app.use(vue3JsonExcel);
 
 app.mount("#app");

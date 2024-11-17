@@ -1,6 +1,54 @@
 /* animation */
 @import 'animate.css';
 
+/* quill editor */
+@import 'quill-editor.css';
+
+/* full calendar */
+@import 'fullcalendar.css';
+
+/* swiper */
+@import 'swiper.css';
+
+/* sweetalert */
+@import 'sweetalert.css';
+
+/* tippy */
+@import 'tippy.css';
+
+/* range-slider */
+@import 'range-slider.css';
+
+/* flatpickr */
+@import 'flatpickr.css';
+
+/* file upload with preview */
+@import 'file-upload-preview.css';
+
+/* markdown-editor */
+@import 'markdown-editor.css';
+
+/* select2 */
+@import 'select2.css';
+
+/* wizard */
+@import 'wizard.css';
+
+/* vue3-datatable */
+@import 'datatable.css';
+
+/* lightbox */
+@import 'lightbox.css';
+
+/* scrumboard */
+@import 'scrumboard.css';
+
+/* dragndrop */
+@import 'dragndrop.css';
+
+/* form element*/
+@import 'form-elements.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -48,7 +96,7 @@
 
     .sidebar .nav-item > button,
     .sidebar .nav-item > a {
-        @apply mb-1 flex items-center w-full justify-between overflow-hidden whitespace-nowrap rounded-md p-2.5 text-[#506690] hover:bg-[#000]/[0.08] hover:text-black dark:hover:bg-[#181f32] dark:hover:text-white-dark;
+        @apply mb-1 flex w-full items-center justify-between overflow-hidden whitespace-nowrap rounded-md p-2.5 text-[#506690] hover:bg-[#000]/[0.08] hover:text-black dark:hover:bg-[#181f32] dark:hover:text-white-dark;
     }
     .sidebar .nav-item > button.active,
     .sidebar .nav-item > a.active {
@@ -62,7 +110,7 @@
 
     .sidebar ul.sub-menu li button,
     .sidebar ul.sub-menu li a {
-        @apply flex items-center w-full px-9 py-2.5 before:h-0.5 before:w-2 before:rounded before:bg-gray-300 hover:bg-gray-100
+        @apply flex w-full items-center px-9 py-2.5 before:h-0.5 before:w-2 before:rounded before:bg-gray-300 hover:bg-gray-100
 hover:text-primary hover:before:!bg-primary ltr:before:mr-2 rtl:before:ml-2 dark:before:bg-gray-500 dark:hover:bg-gray-900 dark:hover:text-primary;
     }
     .sidebar ul.sub-menu li button.active,
@@ -97,7 +145,7 @@ hover:text-primary hover:before:!bg-primary ltr:before:mr-2 rtl:before:ml-2 dark
     }
 
     .horizontal .nav-item a div:first-child svg {
-        @apply w-5 h-5 text-black/50 dark:text-white/50;
+        @apply h-5 w-5 text-black/50 dark:text-white/50;
     }
 
     .horizontal .dark .nav-item a div:first-child svg,
@@ -106,7 +154,7 @@ hover:text-primary hover:before:!bg-primary ltr:before:mr-2 rtl:before:ml-2 dark
     }
 
     .horizontal-menu .nav-link {
-        @apply flex items-center py-2.5 px-2 rounded-lg hover:bg-[#000]/[0.08] hover:text-black dark:hover:bg-[#181f32] dark:hover:text-white-dark xl:px-4;
+        @apply flex items-center rounded-lg py-2.5 px-2 hover:bg-[#000]/[0.08] hover:text-black dark:hover:bg-[#181f32] dark:hover:text-white-dark xl:px-4;
     }
 
     .horizontal-menu .nav-link.active {
@@ -280,6 +328,10 @@ hover:text-primary hover:before:!bg-primary ltr:before:mr-2 rtl:before:ml-2 dark
 
     .btn-outline-dark {
         @apply border-dark text-dark shadow-none hover:bg-dark hover:text-white;
+    }
+
+    .btn-gradient {
+        @apply bg-gradient-to-r from-[#EF1262] to-[#4361EE] hover:to-[#EF1262] hover:from-[#4361EE] text-white;
     }
 
     /* Badge */
@@ -490,7 +542,7 @@ hover:text-primary hover:before:!bg-primary ltr:before:mr-2 rtl:before:ml-2 dark
 
     table.dataTable-table tbody tr th,
     table.dataTable-table tbody tr td {
-        @apply border-b border-[#e5e7eb] py-3 px-4 ltr:text-left rtl:text-right dark:border-[#191e3a];
+        @apply border-b border-white-light/40 py-3 px-4 ltr:text-left rtl:text-right dark:border-[#191e3a];
     }
     table.dataTable-table tbody tr:last-child td {
         @apply border-b-0;

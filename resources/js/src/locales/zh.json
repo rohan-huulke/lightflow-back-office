@@ -44,10 +44,10 @@
     "sweet_alerts": "甜蜜的警报",
     "timeline": "时间线",
     "notifications": "通知",
-    "media_object" : "媒体对象",
-    "list_group" : "列表组",
-    "pricing_tables" : "定价表",
-    "lightbox" : "灯箱",
+    "media_object": "媒体对象",
+    "list_group": "列表组",
+    "pricing_tables": "定价表",
+    "lightbox": "灯箱",
     "alerts": "警报",
     "avatar": "阿凡达",
     "badges": "徽章",
@@ -120,5 +120,9 @@
     "checkbox": "复选框",
     "skin": "皮肤",
     "sticky_header": "粘性标题",
-    "clone_header": "克隆标题"
+    "clone_header": "克隆标题",
+    "coming_soon_boxed": "即将推出盒装",
+    "coming_soon_cover": "即将推出封面",
+    "contact_us_boxed": "联系我们 盒装",
+    "contact_us_cover": "联系我们封面"
 }

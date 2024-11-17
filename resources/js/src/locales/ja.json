@@ -44,10 +44,10 @@
     "sweet_alerts": "甘いアラート",
     "timeline": "タイムライン",
     "notifications": "通知",
-    "media_object" : "MediaObject",
-    "list_group" : "リストグループ",
-    "pricing_tables" : "価格表",
-    "lightbox" : "ライトボックス",
+    "media_object": "MediaObject",
+    "list_group": "リストグループ",
+    "pricing_tables": "価格表",
+    "lightbox": "ライトボックス",
     "alerts": "アラート",
     "avatar": "アバター",
     "badges": "バッジ",
@@ -120,5 +120,9 @@
     "checkbox": "チェックボックス",
     "skin": "肌",
     "sticky_header": "スティッキー ヘッダー",
-    "clone_header": "ヘッダーの複製"
+    "clone_header": "ヘッダーの複製",
+    "coming_soon_boxed": "近日発売予定",
+    "coming_soon_cover": "近日公開予定の表紙",
+    "contact_us_boxed": "お問い合わせ",
+    "contact_us_cover": "お問い合わせ 表紙"
 }

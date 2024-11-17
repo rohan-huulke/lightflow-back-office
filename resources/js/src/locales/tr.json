@@ -44,10 +44,10 @@
     "sweet_alerts": "Tatlı uyarılar",
     "timeline": "zaman çizelgesi",
     "notifications": "bildirimler",
-    "media_object" : "Medyanesnesi",
-    "list_group" : "Liste Grubu",
-    "pricing_tables" : "Fiyatlandırma Tabloları",
-    "lightbox" : "hafif kutu",
+    "media_object": "Medyanesnesi",
+    "list_group": "Liste Grubu",
+    "pricing_tables": "Fiyatlandırma Tabloları",
+    "lightbox": "hafif kutu",
     "alerts": "uyarılar",
     "avatar": "avatar",
     "badges": "Rozetler",
@@ -120,5 +120,9 @@
     "checkbox": "onay kutusu",
     "skin": "Deri",
     "sticky_header": "Yapışkan Başlık",
-    "clone_header": "Klon Başlığı"
+    "clone_header": "Klon Başlığı",
+    "coming_soon_boxed": "Çok Yakında Kutulu",
+    "coming_soon_cover": "Çok Yakında Kapak",
+    "contact_us_boxed": "Bize Ulaşın Kutulu",
+    "contact_us_cover": "Bize Ulaşın Kapak"
 }

@@ -44,10 +44,10 @@
     "sweet_alerts": "Édes figyelmeztetések",
     "timeline": "Idővonal",
     "notifications": "értesítéseket",
-    "media_object" : "MediaObject",
-    "list_group" : "ListGroup",
-    "pricing_tables" : "Ártáblázatok",
-    "lightbox" : "világító doboz",
+    "media_object": "MediaObject",
+    "list_group": "ListGroup",
+    "pricing_tables": "Ártáblázatok",
+    "lightbox": "világító doboz",
     "alerts": "Figyelmeztetések",
     "avatar": "avatar",
     "badges": "jelvényeket",
@@ -120,5 +120,9 @@
     "checkbox": "Jelölőnégyzet",
     "skin": "Bőr",
     "sticky_header": "Ragadós fejléc",
-    "clone_header": "Fejléc klónozása"
+    "clone_header": "Fejléc klónozása",
+    "coming_soon_boxed": "Hamarosan Boxed",
+    "coming_soon_cover": "Hamarosan Borító",
+    "contact_us_boxed": "Lépjen kapcsolatba velünk Boxed",
+    "contact_us_cover": "Lépjen kapcsolatba velünk Borító"
 }

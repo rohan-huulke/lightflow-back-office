@@ -44,10 +44,10 @@
     "sweet_alerts": "Γλυκές ειδοποιήσεις",
     "timeline": "χρονοδιάγραμμα",
     "notifications": "ειδοποιήσεις",
-    "media_object" : "MediaObject",
-    "list_group" : "ListGroup",
-    "pricing_tables" : "Πίνακες τιμολόγησης",
-    "lightbox" : "lightbox",
+    "media_object": "MediaObject",
+    "list_group": "ListGroup",
+    "pricing_tables": "Πίνακες τιμολόγησης",
+    "lightbox": "lightbox",
     "alerts": "Ειδοποιήσεις",
     "avatar": "άβαταρ",
     "badges": "κονκάρδες",
@@ -120,5 +120,9 @@
     "checkbox": "Πλαίσιο ελέγχου",
     "skin": "Δέρμα",
     "sticky_header": "Κολλώδης κεφαλίδα",
-    "clone_header": "Κλώνος Κεφαλίδα"
+    "clone_header": "Κλώνος Κεφαλίδα",
+    "coming_soon_boxed": "Σύντομα σε κουτί",
+    "coming_soon_cover": "Προσεχώς Εξώφυλλο",
+    "contact_us_boxed": "Επικοινωνήστε μαζί μας Boxed",
+    "contact_us_cover": "Επικοινωνήστε μαζί μας Εξώφυλλο"
 }

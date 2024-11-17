@@ -44,10 +44,10 @@
     "sweet_alerts": "Dolci avvisi",
     "timeline": "sequenza temporale",
     "notifications": "notifiche",
-    "media_object" : "Oggetto multimediale",
-    "list_group" : "ListGroup",
-    "pricing_tables" : "Tabelle dei prezzi",
-    "lightbox" : "scatola luminosa",
+    "media_object": "Oggetto multimediale",
+    "list_group": "ListGroup",
+    "pricing_tables": "Tabelle dei prezzi",
+    "lightbox": "scatola luminosa",
     "alerts": "Avvisi",
     "avatar": "avatar",
     "badges": "distintivi",
@@ -120,5 +120,9 @@
     "checkbox": "Casella di controllo",
     "skin": "Pelle",
     "sticky_header": "Intestazione adesiva",
-    "clone_header": "Clona intestazione"
+    "clone_header": "Clona intestazione",
+    "coming_soon_boxed": "Prossimamente in scatola",
+    "coming_soon_cover": "Copertina in arrivo",
+    "contact_us_boxed": "Contattaci Inscatolato",
+    "contact_us_cover": "Contattaci Copertina"
 }

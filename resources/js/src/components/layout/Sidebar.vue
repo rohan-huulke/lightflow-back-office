@@ -1091,13 +1091,19 @@
                                         <router-link to="/pages/knowledge-base" @click="toggleMobileMenu">{{ $t('knowledge_base') }}</router-link>
                                     </li>
                                     <li @click="toggleMobileMenu">
-                                        <router-link to="/pages/contact-us" target="_blank">{{ $t('contact_form') }}</router-link>
+                                        <router-link to="/pages/contact-us-boxed" target="_blank">{{ $t('contact_us_boxed') }}</router-link>
+                                    </li>
+                                    <li @click="toggleMobileMenu">
+                                        <router-link to="/pages/contact-us-cover" target="_blank">{{ $t('contact_us_cover') }}</router-link>
                                     </li>
                                     <li>
                                         <router-link to="/pages/faq" @click="toggleMobileMenu">{{ $t('faq') }}</router-link>
                                     </li>
                                     <li @click="toggleMobileMenu">
-                                        <router-link to="/pages/coming-soon" target="_blank">{{ $t('coming_soon') }}</router-link>
+                                        <router-link to="/pages/coming-soon-boxed" target="_blank">{{ $t('coming_soon_boxed') }}</router-link>
+                                    </li>
+                                    <li @click="toggleMobileMenu">
+                                        <router-link to="/pages/coming-soon-cover" target="_blank">{{ $t('coming_soon_cover') }}</router-link>
                                     </li>
                                     <li class="menu nav-item">
                                         <button

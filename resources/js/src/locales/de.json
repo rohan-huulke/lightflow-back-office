@@ -44,10 +44,10 @@
     "sweet_alerts": "Süße Warnungen",
     "timeline": "Zeitleiste",
     "notifications": "Benachrichtigungen",
-    "media_object" : "Medienobjekt",
-    "list_group" : "Gruppe auflisten",
-    "pricing_tables" : "Preistabellen",
-    "lightbox" : "Leuchtkasten",
+    "media_object": "Medienobjekt",
+    "list_group": "Gruppe auflisten",
+    "pricing_tables": "Preistabellen",
+    "lightbox": "Leuchtkasten",
     "alerts": "Warnungen",
     "avatar": "Benutzerbild",
     "badges": "Abzeichen",
@@ -120,5 +120,9 @@
     "checkbox": "Kontrollkästchen",
     "skin": "Haut",
     "sticky_header": "Klebrige Kopfzeile",
-    "clone_header": "Kopfzeile klonen"
+    "clone_header": "Kopfzeile klonen",
+    "coming_soon_boxed": "Demnächst im Karton erhältlich",
+    "coming_soon_cover": "Demnächst erhältliches Cover",
+    "contact_us_boxed": "Kontaktieren Sie uns",
+    "contact_us_cover": "Kontaktieren Sie uns"
 }

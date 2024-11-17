@@ -44,10 +44,10 @@
     "sweet_alerts": "Słodkie alerty",
     "timeline": "oś czasu",
     "notifications": "powiadomienia",
-    "media_object" : "MediaObject",
-    "list_group" : "GrupaList",
-    "pricing_tables" : "Tabele cenowe",
-    "lightbox" : "lightbox",
+    "media_object": "MediaObject",
+    "list_group": "GrupaList",
+    "pricing_tables": "Tabele cenowe",
+    "lightbox": "lightbox",
     "alerts": "Alerty",
     "avatar": "awatara",
     "badges": "odznaki",
@@ -120,5 +120,9 @@
     "checkbox": "Pole wyboru",
     "skin": "Skóra",
     "sticky_header": "Lepki nagłówek",
-    "clone_header": "Nagłówek klonu"
+    "clone_header": "Nagłówek klonu",
+    "coming_soon_boxed": "Wkrótce w pudełku",
+    "coming_soon_cover": "Już wkrótce okładka",
+    "contact_us_boxed": "Skontaktuj się z nami w pudełku",
+    "contact_us_cover": "Skontaktuj się z nami Okładka"
 }

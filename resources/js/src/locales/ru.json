@@ -44,10 +44,10 @@
     "sweet_alerts": "Сладкие оповещения",
     "timeline": "график",
     "notifications": "уведомления",
-    "media_object" : "МедиаОбъект",
-    "list_group" : "Группа списка",
-    "pricing_tables" : "Таблицы цен",
-    "lightbox" : "лайтбокс",
+    "media_object": "МедиаОбъект",
+    "list_group": "Группа списка",
+    "pricing_tables": "Таблицы цен",
+    "lightbox": "лайтбокс",
     "alerts": "Оповещения",
     "avatar": "аватар",
     "badges": "значки",
@@ -120,5 +120,9 @@
     "checkbox": "Флажок",
     "skin": "Кожа",
     "sticky_header": "Липкий заголовок",
-    "clone_header": "Клонировать заголовок"
+    "clone_header": "Клонировать заголовок",
+    "coming_soon_boxed": "Скоро в штучной упаковке",
+    "coming_soon_cover": "Скоро появится Обложка",
+    "contact_us_boxed": "Свяжитесь с нами",
+    "contact_us_cover": "Свяжитесь с нами Обложка"
 }

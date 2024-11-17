@@ -44,10 +44,10 @@
     "sweet_alerts": "Alertes sucrées",
     "timeline": "Chronologie",
     "notifications": "Avis",
-    "media_object" : "Objet multimédia",
-    "list_group" : "Groupe de liste",
-    "pricing_tables" : "Tableaux de prix",
-    "lightbox" : "Boite à lumière",
+    "media_object": "Objet multimédia",
+    "list_group": "Groupe de liste",
+    "pricing_tables": "Tableaux de prix",
+    "lightbox": "Boite à lumière",
     "alerts": "Alertes",
     "avatar": "Avatar",
     "badges": "Insignes",
@@ -120,5 +120,9 @@
     "checkbox": "Case à cocher",
     "skin": "Peau",
     "sticky_header": "En-tête collant",
-    "clone_header": "Cloner l'en-tête"
+    "clone_header": "Cloner l'en-tête",
+    "coming_soon_boxed": "Bientôt en boîte",
+    "coming_soon_cover": "Prochainement Couverture",
+    "contact_us_boxed": "Contactez-nous",
+    "contact_us_cover": "Contactez-nous Couverture"
 }

@@ -44,10 +44,10 @@
     "sweet_alerts": "Sweet Alerts",
     "timeline": "Timeline",
     "notifications": "Notifications",
-    "media_object" : "Media Object",
-    "list_group" : "List Group",
-    "pricing_tables" : "Pricing Tables",
-    "lightbox" : "Lightbox",
+    "media_object": "Media Object",
+    "list_group": "List Group",
+    "pricing_tables": "Pricing Tables",
+    "lightbox": "Lightbox",
     "alerts": "Alerts",
     "avatar": "Avatar",
     "badges": "Badges",
@@ -120,5 +120,9 @@
     "checkbox": "Checkbox",
     "skin": "Skin",
     "sticky_header": "Sticky Header",
-    "clone_header": "Clone Header"
+    "clone_header": "Clone Header",
+    "coming_soon_boxed": "Coming Soon Boxed",
+    "coming_soon_cover": "Coming Soon Cover",
+    "contact_us_boxed": "Contact Us Boxed",
+    "contact_us_cover": "Contact Us Cover"
 }

@@ -44,10 +44,10 @@
     "sweet_alerts": "Alertas doces",
     "timeline": "Linha do tempo",
     "notifications": "notificações",
-    "media_object" : "Objeto de mídia",
-    "list_group" : "ListarGrupo",
-    "pricing_tables" : "Tabelas de preços",
-    "lightbox" : "caixa de luz",
+    "media_object": "Objeto de mídia",
+    "list_group": "ListarGrupo",
+    "pricing_tables": "Tabelas de preços",
+    "lightbox": "caixa de luz",
     "alerts": "Alertas",
     "avatar": "avatar",
     "badges": "Distintivos",
@@ -120,5 +120,9 @@
     "checkbox": "Caixa de seleção",
     "skin": "Pele",
     "sticky_header": "Cabeçalho Fixo",
-    "clone_header": "Clonar Cabeçalho"
+    "clone_header": "Clonar Cabeçalho",
+    "coming_soon_boxed": "Em breve embalado",
+    "coming_soon_cover": "Capa Em Breve",
+    "contact_us_boxed": "Contacte-nos na caixa",
+    "contact_us_cover": "Contacte-nos capa"
 }

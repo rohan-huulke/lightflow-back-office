@@ -44,10 +44,10 @@
     "sweet_alerts": "Söta varningar",
     "timeline": "tidslinjen",
     "notifications": "meddelanden",
-    "media_object" : "MediaObject",
-    "list_group" : "Listgrupp",
-    "pricing_tables" : "Pristabeller",
-    "lightbox" : "ljuslåda",
+    "media_object": "MediaObject",
+    "list_group": "Listgrupp",
+    "pricing_tables": "Pristabeller",
+    "lightbox": "ljuslåda",
     "alerts": "Varningar",
     "avatar": "avatar",
     "badges": "märken",
@@ -120,5 +120,9 @@
     "checkbox": "Kryssruta",
     "skin": "Hud",
     "sticky_header": "Sticky Header",
-    "clone_header": "Clone Header"
+    "clone_header": "Clone Header",
+    "coming_soon_boxed": "Kommer snart i box",
+    "coming_soon_cover": "Kommer snart omslag",
+    "contact_us_boxed": "Kontakta oss Boxed",
+    "contact_us_cover": "Kontakta oss Cover"
 }
