@@ -1,0 +1,217 @@
+<?php
+
+return [
+    'ibos' => [
+        'excelImport' => 'users/import',
+        'clientList' => 'users',
+        'clientListLevel' => 'users/level',
+        'clientListLevelClients' => 'users/levelWithCLient',
+        'singleClientById' => 'users/single',
+        'singleClientByname' => 'users/singleSearch',
+        'flushData' => 'users/flushData',
+        'lookUpTable' => 'users/lookUpTable',
+        'lookUpTableCardId' => 'users/lookUpTableCardId',
+        'lookUpTableExport' => 'users/lookUpTableExport',
+        'lookUpTableExportCardId' => 'users/lookUpTableExportCardId',
+        'lookUpHistory' => 'users/lookUpHistory',
+        'createlookUpTable' => 'users/createlookUpTable',
+        'stepByStep' => 'users/stepByStep',
+        'searchNames' => 'users/searchNames',
+        'saveIbo' => 'users/saveIbo',
+        'stepByStepLastUser' => 'users/stepByStepLastUser',
+        'checkIbo' => 'check/ibo',
+        'save' => 'ibo/save',
+        'stats' => 'ibo/stats',
+        'clients' => 'users/getClientList',
+        'activate' => 'users/activate',
+        'single' => 'users/getDetailsById',
+        'update' => 'users/update',
+        'recaclulate' => 'api/recaclulate',
+        'register' => 'api/ibo-register',
+        'singleWithWallet' => 'users/singleWithWallet'
+    ],
+    'orders' => [
+        'list' => 'orders/list',
+        'clientList' => 'orders/clientOrderlist',
+        'byId' => 'orders/byId',
+        'byLevel' => 'orders/byLevel',
+        'clearAll' => 'orders/clearAll',
+        'save' => 'orders/save',
+        'import' => 'orders/import',
+        'save_order' => 'orders/save_order',
+        'report' => 'orders/report',
+        'shipment' => 'orders/shipment',
+        'paidOrders' => 'orders/paidOrders',
+        'details' => 'orders/details',
+        'updateShipping' => 'orders/updateShipping',
+        'packing' => 'orders/packing',
+        'incomplete' => 'orders/incomplete',
+        'complete' => 'orders/complete',
+        'delete' => 'orders/delete',
+        'update' => 'orders/update',
+        'approv_save_order' => 'orders/approv_save_order',
+        'updateStatus' => 'orders/updateStatus',
+        'updateOrder' => 'orders/updateOrder',
+        'updateReference' => 'orders/updateReference',
+        'ngenius' => 'orders/addNgeniusResponse'
+    ],
+    'cycles' => [
+        'list' => 'cycles/list',
+        'finish' => 'cycles/finish',
+    ],
+    'categories' => [
+        'list' => 'categories',
+        'save' => 'categories/save',
+        'single' => 'categories/single',
+        'byName' => 'categories/getCategoryByName'
+    ],
+    'items' => [
+        'list' => 'items',
+        'getlist' => 'items/list',
+        'save' => 'items/save',
+        'single' => 'items/single',
+        'singleOldId' => 'items/singleOldId',
+        'saveDetails' => 'items/savedetails',
+    ],
+    'clients' => [
+        'list' => 'clients/list',
+        'save' => 'clients/save',
+        'single' => 'clients/single',
+        'import' => 'clients/import',
+        'tree' => 'clients/tree',
+        'checkClients' => 'check/clients',
+        'update' => 'clients/update',
+    ],
+    'info' => [
+        'login' => 'auth/login',
+        'userInfo' => 'users/info',
+        'userInfoForLogin' => 'users/infoForLogin',
+        'infoByOldId' => 'users/infoByOldId'
+    ],
+    'wallets' => [
+        'single' => 'wallets/single',
+        'wallets' => 'wallets/single',
+        'index' => 'wallets/index',
+        'index2' => 'wallets/index2',
+        'paymentRequest' => 'wallets/paymentRequest',
+        'addManualMovement' => 'wallets/addManualMovement',
+        'paymentRequestList' => 'wallets/paymentRequestList',
+        'manualMovementList' => 'wallets/manualMovementList',
+        'paymentRequestUpdate' => 'wallets/paymentRequestUpdate',
+        'manualMovementUpdate' => 'wallets/manualMovementUpdate',
+        'paymentRequestEwalletUpdate' => 'wallets/paymentRequestEwalletUpdate',
+        'payments' => 'wallets/payments',
+        'paymentRequestSingle' => 'wallets/paymentRequestSingle',
+        'update' => 'wallets/update'
+
+    ],
+    'dashboard' => [
+        'main' => 'dashboard/main',
+        'ranking' => 'dashboard/ranking',
+        'bonus' => 'dashboard/bonus',
+        'honoraryRank' => 'dashboard/honoraryRank'
+    ],
+    'inventory' => [
+        'list' => 'inventory',
+        'save' => 'inventory/save',
+        'details' => 'inventory/details',
+        'inventoryUpdate' => 'inventory/inventoryUpdate',
+        'stockStatus' => 'inventory/stockStatus',
+        'salesReport' => 'inventory/salesReport',
+    ],
+    'market' => [
+        'list' => 'markets',
+        'save' => 'markets/save',
+        'update' => 'markets/update',
+        'single' => 'markets/single',
+        'deleteProduct' => 'markets/deleteProduct',
+        'categories' => 'markets/categories',
+        'subCategories' => 'markets/subCategories',
+        'getMarketProducts' => 'markets/products'
+    ],
+    'virtualOffice' => [
+        'businessTable' => 'virtualOffice/businessTable',
+        'businessTableIbo' => 'virtualOffice/businessTableIbo',
+        'businessTableClient' => 'virtualOffice/businessTableClient',
+    ],
+    'bonus' => [
+        'breakway' => 'bonus/breakway',
+        'breakway2' => 'bonus/breakway2',
+        'breakwayBefor1' => 'bonus/breakwayBefor1',
+        'leader' => 'bonus/leader',
+        'leader1' => 'bonus/leader1',
+        'leader2' => 'bonus/leader2',
+        'sconto' => 'bonus/sconto',
+        'wallet' => 'bonus/wallet',
+    ],
+    'shipment' => [
+        'list' => 'shipment/list'
+    ],
+    'lists' => [
+        'ibo9club' => 'virtualOffice/ibo9club',
+    ],
+    'invoice' => [
+        'peymentRequest' => 'wallet/peymentRequest',
+        'invoice' => 'invoice/single'
+    ],
+    'promotion' => [
+        'promo2024' => 'prmotion/promo2024'
+    ],
+    'vat' => [
+      'iboVatType' => 'vat/iboVatType',
+      'addIboVatType' => 'vat/addIboVatType',
+      'updateIboVatType' => 'vat/updateIboVatType'
+    ],
+    'lca' => [
+      'single' => 'lca/single',
+      'add' => 'lca/add'
+    ],
+    'changeStructure' => [
+      'getUsers' => 'changeStructure/getUsers',
+      'saveHistory' => 'changeStructure/saveHistory',
+      'requests' => 'changeStructure/getRequests',
+      'processRequest' => 'changeStructure/processRequest',
+    ],
+    'reports' => [
+      'comprehensive' => 'reports/comprehensive',
+      'businessTable' => 'reports/businessTable',
+      'infoTable' => 'reports/infoTable',
+      'productTable' => 'reports/productTable'
+    ],
+    'vatType' => [
+      'list' => 'vatType/getList',
+      'single' => 'vatType/single',
+      'save' => 'vatType/save'
+    ],
+    'sapphire' => [
+        '100026',
+        '100024',
+        '101',
+        '100029',
+        '100020',
+        '100038',
+        '100033',
+        '100027',
+        '100017',
+        '100254',
+        '100053',
+        '100023',
+        '100071',
+        '100062',
+        '100133',
+        '100177',
+        '100552',
+        '100086',
+        '100095',
+        '100117',
+        '100118',
+        '100219',
+        '100456',
+        '100233',
+        '100135',
+        '100068',
+        '100337',
+        '100458',
+        '100356',
+    ],
+];

@@ -19,6 +19,7 @@
         "@vueuse/core": "^10.11.1",
         "@vueuse/head": "^2.0.0",
         "apexcharts": "^3.35.5",
+        "axios": "^1.7.7",
         "easymde": "^2.18.0",
         "file-upload-with-preview": "^4.2.0",
         "highlight.js": "^11.3.1",
