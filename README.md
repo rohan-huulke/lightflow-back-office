@@ -3,6 +3,14 @@
 
 Lightflow Back Office is Admin Panel With Preset of Roles, Permissions, ACL, User Management, Profile Management.
 
+## Prerequisites
+What things you need to install the software:
+
+1. Node.js (i.e., >=v20.0.0)
+2. PHP (i.e., >=8.2)
+3. Laravel Framework (i.e., >=11.9)
+
+Ensure these dependencies are installed and properly configured on your system before proceeding.
 
 ## Installation
 
