@@ -53,10 +53,11 @@ Update .env File with Database credentials and run migration with seed.
   php artisan migrate --seed
 ```
 
-All Set ! now serve laravel app on local and open app in browser.
+All Set ! now serve laravel app and vue app on local and open app in browser.
 
 ```bash
   php artisan serve
+  npm run dev
 ```
 
 Login With Admin
