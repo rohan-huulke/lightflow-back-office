@@ -145,25 +145,9 @@ This section will give you a brief description of our code.
 
     a. Sidebar Toggle button.
 
-    b. Quick access button for calendar.
+    b. User Profile with Dropdown
 
-    c. Quick access button for todolist.
-
-    d. Quick access button for chat.
-
-    e. Search Bar
-
-    f. Theme toggle button.
-
-    g. Language Dropdown
-
-    h. Message Dropdown
-
-    i. Notification Dropdown
-
-    j. User Profile with Dropdown
-
-    k. Horizontal Menu
+    c. Horizontal Menu
 Note:- These categories are defined by us and you can modify as per your needs :)
 
 ```javascript
