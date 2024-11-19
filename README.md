@@ -12,7 +12,7 @@ Install KimberLite With Simple Steps
   git clone https://github.com/rohan-huulke/lightflow-back-office.git
 ```
 ```bash
-  cd techtool-laravel-admin
+  cd lightflow-back-office
 ```
 
 Install All Packages of laravel
